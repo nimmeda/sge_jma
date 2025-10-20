@@ -13,6 +13,9 @@
 - [Ejercicio8](./index.md/#ejercicio-08)
 - [Ejercicio9](./index.md/#ejercicio-09)
 - [Ejercicio10](./index.md/#ejercicio-10)
+- [Ejercicio11](./index.md/#ejercicio-11)
+- [Ejercicio12](./index.md/#ejercicio-12)
+- [Ejercicio13](./index.md/#ejercicio-13)
 
 ### Ejercicio 01
 
@@ -154,7 +157,7 @@ for i in range (len(c)):
 s += pc + str(cantidad)
 print(s)
 ```
-### Ejercicio 12
+### Ejercicio 13
 ```python
 c = input("Introduce la cadena codificada: ")
 s = ""
