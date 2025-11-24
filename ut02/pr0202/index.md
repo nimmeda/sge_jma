@@ -21,6 +21,8 @@ OdooProd
 Abriremos ahora Docker desktop y en una terminal dentro de la carpeta de lainstalación ejecutaremos el siguiente comando: `docker network createshared_network`
 ## Paso 4:
 Ejecutaremos el comando: `docker compose up -d` y esperaremos a que termine de ejecutarse e instalarse
+## Paso 5: 
+Podemos ejecutar el comando `docker ps` para ver si se están ejecutando
 
 ## Compose.yml final:
 ```yml
